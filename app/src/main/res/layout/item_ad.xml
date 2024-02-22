@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.gms.ads.AdView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/adView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    app:adSize="BANNER"
+    android:layout_gravity="center_horizontal"
+    app:adUnitId="ca-app-pub-6973940563655912/8796242405" />
